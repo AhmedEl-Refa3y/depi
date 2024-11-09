@@ -10,6 +10,11 @@ body {
   color: #ffffff;
 }
 
+.navbar {
+  z-index: 999;
+  background: #07070733;
+}
+
 .logo-img {
   width: 40px;
 }
