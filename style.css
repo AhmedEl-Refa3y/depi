@@ -44,6 +44,7 @@ body {
 
 .fruit-info {
   margin-bottom: 20px;
+  transform: translateY(-60%);
 }
 
 .fruit-index {
